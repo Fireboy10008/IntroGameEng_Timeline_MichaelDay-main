@@ -14660,9 +14660,9 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 849ffc7dc8aa1de45929d65d6f224d11, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.497
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -14671,9 +14671,9 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 50
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -22496,8 +22496,6 @@ PlayableDirector:
     value: {fileID: 868792771}
   - key: {fileID: 3301709434910920204, guid: 69875c6ce3603124da5e99f20c4645c3, type: 2}
     value: {fileID: 1062907742}
-  - key: {fileID: -3951472843772704785, guid: 69875c6ce3603124da5e99f20c4645c3, type: 2}
-    value: {fileID: 1352759596}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &2076252608
@@ -22508,8 +22506,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2076252606}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.1068735, y: 0.9850753, z: 0.26866832}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.106873, y: 0.9850753, z: 0.26866913}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
